@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Figtree", sans-serif;
+}
+
+body{
+    background-color: #F4D04E;
+    
+}
+
+#preview-card-container { 
+    width: 348px;
+    height: 565px;
+    background-color: #fff;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 8px 8px 0px 0px #000;
+
+}
